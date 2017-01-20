@@ -2,7 +2,7 @@
 You can find [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) tasks, wishes, ideas, ... for the [Gridcoin](https://gridcoin.us) project.
 
 The initial goal is:
-* to identify mentioned tasks from the [Gridcoin hangouts](https://steemit.com/gridcoin/@cm-steem/gridcoin-community-hangout-episode-guide).
+* to identify mentioned tasks from the [Gridcoin hangouts](https://steemit.com/gridcoin/@cm-steem/gridcoin-community-hangout-episode-guide) (see also: [hangout minutes](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes))
 
 Later we'll see how we use this repo more, but:
 * there's no problem when tasks from elsewhere ([the forum](https://cryptocointalk.com/forum/464-gridcoin-grc/), ...) are mentioned here also so they can be seen/managed better.
