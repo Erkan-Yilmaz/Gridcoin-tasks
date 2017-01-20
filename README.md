@@ -11,8 +11,8 @@ Later we'll see how we use this repo more, but:
    * do a short *summary*
    * *link* to the external place
    * make a possible *time estimate* for realization (e.g. on the issue page you can also set the *milestone* field)
-   * *who* is or might be possible to realize/implement (e.g. on the issue page you can also set the *assignees* field)
-   * using a category (marketing, bounty, newcomers, ...) for your issue is also possible (see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels)), we can also create new categories
+   * *who* is or might be possible to realize/implement (e.g. on the issue page you can also set the *assignees* field).
+   * Using a category ([marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing), [bounty](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty), [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers), ...) for your issue is also possible (see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels)). There can also be created new categories.
 
 Bugs obviously belong to the [Gridcoin bugtracker](https://github.com/gridcoin/Gridcoin-Research/issues)
 * before reporting there, please search if it exists there already
