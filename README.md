@@ -16,3 +16,5 @@ Later we'll see how we use this repo more, but:
 
 Bugs obviously belong to the [Gridcoin bugtracker](https://github.com/gridcoin/Gridcoin-Research/issues)
 * before reporting there, please search if it exists there already
+
+![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
