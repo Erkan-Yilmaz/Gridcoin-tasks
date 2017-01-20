@@ -10,8 +10,8 @@ Later we'll see how we use this repo more, but:
   * create a task [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues), and 
    * do a short *summary*
    * *link* to the external place
-   * make a possible *time estimate* for realization
-   * *who* is or might be possible to realize/implement 
+   * make a possible *time estimate* for realization (e.g. on the issue page you can also set the milestone field)
+   * *who* is or might be possible to realize/implement (e.g. on the issue page you can also set the assignees field)
 
 Bugs obviously belong to the [Gridcoin bugtracker](https://github.com/gridcoin/Gridcoin-Research/issues)
 * before reporting there, please search if it exists there already
