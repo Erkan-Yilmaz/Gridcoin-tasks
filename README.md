@@ -1,5 +1,5 @@
 # Gridcoin-tasks
-tasks, wishes, ideas, ... for the Gridcoin project
+tasks, wishes, ideas, ... for the [Gridcoin](https://gridcoin.us) project
 
 The initial goal is:
 * to identify mentioned tasks from the [Gridcoin hangouts](https://steemit.com/gridcoin/@cm-steem/gridcoin-community-hangout-episode-guide)
