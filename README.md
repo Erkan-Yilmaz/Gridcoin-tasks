@@ -7,7 +7,7 @@ The initial goal is:
 Later we'll see how we use this repo more, but:
 * there's no problem when tasks from elsewhere ([the forum](https://cryptocointalk.com/forum/464-gridcoin-grc/), ...) are mentioned here also so they can be seen/managed better.
 * For those then, do this: 
-  * create a task [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues), and 
+  * create a task [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) (click the green "New issue" button on the right), and 
    * do a short *summary* (really, our motto here is: *less is beautiful*)
    * *link* to the external place (there you can be more detailed ;-))
    * make a possible *time estimate* for realization (e.g. on the issue page you can also set the *milestone* field)
