@@ -2,7 +2,7 @@
 You can find [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) tasks, wishes, ideas, ... for the [Gridcoin](https://gridcoin.us) project.
 
 The initial goal is:
-* to identify mentioned tasks from the [Gridcoin hangouts](https://steemit.com/gridcoin/@cm-steem/gridcoin-community-hangout-episode-guide) (see also: [hangout minutes](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes))
+* to identify mentioned tasks from the [Gridcoin hangouts](https://steemit.com/gridcoin/@cm-steem/gridcoin-community-hangout-episode-guide) (see also: [minutes](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes) of the hangouts)
 
 Later we'll see how we use this repo more, but:
 * there's no problem when tasks from elsewhere ([the forum](https://cryptocointalk.com/forum/464-gridcoin-grc/), ...) are mentioned here also so they can be seen/managed better.
@@ -15,7 +15,7 @@ Later we'll see how we use this repo more, but:
    * Using a category ([marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing), [bounty](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty), [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers), [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet), [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap), ...) for your issue is also possible (see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels)). There can also be created new categories.
 
 Bugs obviously belong to the [Gridcoin bugtracker](https://github.com/gridcoin/Gridcoin-Research/issues)
-* e.g. most of the tasks in category: [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet) will go after more detailing, ... there
-* before reporting there, please search if it exists there already
+* e.g. most of the tasks in category: [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet) will go there after more detailing, ...
+* keep in mind: before reporting in the bugtracker, please search if your bug exists there already
 
 ![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
