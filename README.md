@@ -12,9 +12,10 @@ Later we'll see how we use this repo more, but:
    * *link* to the external place
    * make a possible *time estimate* for realization (e.g. on the issue page you can also set the *milestone* field)
    * *who* is or might be possible to realize/implement (e.g. on the issue page you can also set the *assignees* field).
-   * Using a category ([marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing), [bounty](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty), [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers), [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap), ...) for your issue is also possible (see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels)). There can also be created new categories.
+   * Using a category ([marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing), [bounty](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty), [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers), [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet), [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap), ...) for your issue is also possible (see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels)). There can also be created new categories.
 
 Bugs obviously belong to the [Gridcoin bugtracker](https://github.com/gridcoin/Gridcoin-Research/issues)
+* e.g. most of the tasks in category: [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet) will go after more detailing, ... there
 * before reporting there, please search if it exists there already
 
 ![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
