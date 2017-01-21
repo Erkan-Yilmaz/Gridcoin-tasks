@@ -8,8 +8,8 @@ Later we'll see how we use this repo more, but:
 * there's no problem when tasks from elsewhere ([the forum](https://cryptocointalk.com/forum/464-gridcoin-grc/), ...) are mentioned here also so they can be seen/managed better.
 * For those then, do this: 
   * create a task [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues), and 
-   * do a short *summary* (really, our motto here is: *short is beautiful*)
-   * *link* to the external place (there you can be more detailed ;-)
+   * do a short *summary* (really, our motto here is: *less is beautiful*)
+   * *link* to the external place (there you can be more detailed ;-))
    * make a possible *time estimate* for realization (e.g. on the issue page you can also set the *milestone* field)
    * *who* is or might be possible to realize/implement (e.g. on the issue page you can also set the *assignees* field).
    * Using a category ([marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing), [bounty](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty), [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers), [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet), [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap), ...) for your issue is also possible (see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels)). There can also be created new categories.
