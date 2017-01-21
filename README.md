@@ -1,4 +1,4 @@
-# Gridcoin-tasks
+# Gridcoin tasks
 You can find [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) tasks, wishes, ideas, ... for the [Gridcoin](https://gridcoin.us) project.
 
 The initial goal is:
