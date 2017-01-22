@@ -5,12 +5,12 @@ You can find [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) tasks
 Quick jump:
 
 * [marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing) tasks
-* tasks with a possible [bounty](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty)
-* tasks that help people who join Gridcoin the very first time: [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers) 
-* [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet)
-* [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap) 
-* [exchanges](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/exchanges)
-* [finished](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues?q=is%3Aissue+is%3Aclosed) tasks
+* tasks with [bounties](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty) (BIG THANKS too all [donators](https://steemit.com/gridcoin/@erkan/get-bounties-for-helping-team-gridcoin))
+* tasks that help people who want to join Gridcoin the very first time: [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers) 
+* tasks to improve the [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet)
+* official [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap) activities
+* tasks related to [exchanges](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/exchanges)
+* already [finished](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues?q=is%3Aissue+is%3Aclosed) tasks
 
 see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels) all categories
 
