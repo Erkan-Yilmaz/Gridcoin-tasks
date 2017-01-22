@@ -18,9 +18,9 @@ see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels) all categories
 ***
 
 How can you help ?
-* Marketing tasks are probably the easiest startig point,
+* Marketing tasks are probably the easiest starting point,
 * but every other task also needs input: 
-  * read them and comment your thoughts. Others will pick up from there
+  * read them and comment your thoughts. Others will pick up from there.
 
 ***
 
