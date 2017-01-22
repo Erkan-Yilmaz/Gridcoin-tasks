@@ -10,6 +10,7 @@ Quick jump:
 * [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet)
 * [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap) 
 * [exchanges](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/exchanges)
+* [finished](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues?q=is%3Aissue+is%3Aclosed) tasks
 
 see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels) all categories
 
