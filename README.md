@@ -28,7 +28,7 @@ How can you help ?
 The initial goal is:
 * to identify mentioned tasks from the [Gridcoin hangouts](https://steemit.com/gridcoin/@cm-steem/gridcoin-community-hangout-episode-guide) (see also: [minutes](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes) of the hangouts)
 
-Later we'll see how we use this repo more, but:
+Later we'll see how we use this repo more (see also [here](https://steemit.com/gridcoin/@erkan/gridcoin-hangouts-minutes-and-tasks)), but:
 * there's no problem when tasks from elsewhere ([the forum](https://cryptocointalk.com/forum/464-gridcoin-grc/), ...) are mentioned here also so they can be seen/managed better.
 * For those then, do this: 
   * create a task [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) (click the green "New issue" button on the right), and 
