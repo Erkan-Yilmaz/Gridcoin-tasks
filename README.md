@@ -6,7 +6,7 @@ Quick jump:
 
 * [marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing) tasks
 * tasks with a possible [bounty](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty)
-* tasks that help people who join Gridocin the very first time: [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers) 
+* tasks that help people who join Gridcoin the very first time: [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers) 
 * [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet)
 * [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap) 
 * [exchanges](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/exchanges)
