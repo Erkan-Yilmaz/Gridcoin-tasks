@@ -2,6 +2,7 @@
 You can find [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) tasks, wishes, ideas, ... for the [Gridcoin](https://gridcoin.us) project.
 
 ***
+
 Quick jump:
 
 * [marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing) tasks
@@ -13,6 +14,13 @@ Quick jump:
 * already [finished](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues?q=is%3Aissue+is%3Aclosed) tasks
 
 see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels) all categories
+
+***
+
+How can you help ?
+* Marketing tasks are probably the easiest startig point,
+* but every other task also needs input: 
+  * read them and comment your thoughts. Others will pick up from there
 
 ***
 
