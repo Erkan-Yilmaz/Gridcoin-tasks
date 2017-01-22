@@ -1,6 +1,20 @@
 # Gridcoin tasks
 You can find [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) tasks, wishes, ideas, ... for the [Gridcoin](https://gridcoin.us) project.
 
+***
+Quick jump:
+
+* [marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing) tasks
+* tasks with a possible [bounty](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty)
+* tasks that help people who join Gridocin the very first time: [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers) 
+* [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet)
+* [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap) 
+* [exchanges](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/exchanges)
+
+see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels) all categories
+
+***
+
 The initial goal is:
 * to identify mentioned tasks from the [Gridcoin hangouts](https://steemit.com/gridcoin/@cm-steem/gridcoin-community-hangout-episode-guide) (see also: [minutes](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes) of the hangouts)
 
