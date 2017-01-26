@@ -1,0 +1,3 @@
+If you're worried about bots, ... gathering info about you:
+* set up a 2nd github account with a name not linking to you (over your emails you will see updates from the pages)
+* or use a service that enables RSS feeds for the pages you want
