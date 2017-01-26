@@ -12,7 +12,7 @@ Quick jump:
 * official [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap) activities
 * tasks related to [exchanges](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/exchanges)
 * already [finished](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues?q=is%3Aissue+is%3Aclosed) tasks
-* important news or warnings ? see the [inform our user base](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/inform%20our%20user%20base) category + subscribe there (see also [this](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/blob/master/important.txt) information)
+* important news or warnings ? see the [inform our user base](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/inform%20our%20user%20base) category + subscribe there (see also [this](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/blob/master/important.MD) information)
 
 see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels) all categories
 
@@ -42,5 +42,8 @@ Later we'll see how we use this repo more (see also [here](https://steemit.com/g
 Bugs obviously belong to the [Gridcoin bugtracker](https://github.com/gridcoin/Gridcoin-Research/issues)
 * e.g. most of the tasks in category: [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet) will go there after more detailing, ...
 * keep in mind: before reporting in the bugtracker, please search if your bug exists there already
+
+Backup:
+* see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/blob/master/read_offline.MD) how you can backup the Gridcoin tasks (e.g. for reading offline)
 
 ![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
