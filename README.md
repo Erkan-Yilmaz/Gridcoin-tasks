@@ -12,6 +12,7 @@ Quick jump:
 * official [roadmap](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/roadmap) activities
 * tasks related to [exchanges](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/exchanges)
 * already [finished](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues?q=is%3Aissue+is%3Aclosed) tasks
+* important news or warnings ? see the [inform our user base](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/inform%20our%20user%20base) category + subscribe there (see also [this](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/blob/master/important.txt) information)
 
 see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels) all categories
 
