@@ -46,4 +46,9 @@ Bugs obviously belong to the [Gridcoin bugtracker](https://github.com/gridcoin/G
 Backup:
 * see [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/blob/master/read_offline.MD) how you can backup the Gridcoin tasks (e.g. for reading offline)
 
+Poll:
+* until May 9 you can vote in this poll:
+  * [Will you help out with the Gridcoin tasks?](https://steemit.com/gridcoin/@erkan/gridcoin-poll-will-you-help-out-with-the-gridcoin-tasks-vote-until-9th-may)
+  
+ 
 ![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
