@@ -6,7 +6,7 @@ You can find [here](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/issues) tasks
 Quick jump:
 
 * [marketing](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/marketing) tasks
-* tasks with [bounties](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty) (BIG THANKS to all [donators](https://steemit.com/gridcoin/@erkan/get-usdgrc-bounties-for-helping-team-gridcoin))
+* tasks with [bounties](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/bounty) (BIG THANKS to all [donators](https://steemit.com/gridcoin/@erkan/358k-grc-est-usd11133-bounties-for-improving-gridcoin))
 * tasks that help people who want to join Gridcoin the very first time: [newcomers](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/newcomers) 
 * needed [docs - tutorials](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/docs%20-%20tutorials)
 * tasks to improve the [wallet](https://github.com/Erkan-Yilmaz/Gridcoin-tasks/labels/wallet)
